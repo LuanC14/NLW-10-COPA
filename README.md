@@ -27,13 +27,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS Responsivo
+- HTML e CSS
 - JavaScript
 
 
 ## 💻 Projeto
 
-Layout responsivo com o calendário dos jogos das fases de grupo de Brasil, Argentina e França.
+Layout responsivo com o calendário dos jogos da fase de grupos de Brasil, Argentina e França.
 
 ## 🔖 Layout
 
